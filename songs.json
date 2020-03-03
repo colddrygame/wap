@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Intro (wvfmt)",
+    "artist": "Vincent DeVine",
+    "cover": "https://ia802809.us.archive.org/25/items/siro466VincentDevine-WerVonFernenMenschenTrumt/A-Front.jpg",
+    "offline": 0,
+    "localPath": "",
+    "size": 4,
+    "url": "https://archive.org/download/siro466VincentDevine-WerVonFernenMenschenTrumt/01-VincentDevine-Introwvfmt.mp3"
+  },
+  {
+    "title": "Realität",
+    "artist": "Vincent DeVine",
+    "cover": "https://ia802809.us.archive.org/25/items/siro466VincentDevine-WerVonFernenMenschenTrumt/A-Front.jpg",
+    "offline": 0,
+    "localPath": "",
+    "size": 5,
+    "url": "https://archive.org/download/siro466VincentDevine-WerVonFernenMenschenTrumt/02-VincentDevine-Realitt.mp3"
+  },
+  {
+    "title": "Neulich an der Danziger",
+    "artist": "Vincent DeVine",
+    "cover": "https://ia802809.us.archive.org/25/items/siro466VincentDevine-WerVonFernenMenschenTrumt/A-Front.jpg",
+    "offline": 0,
+    "localPath": "",
+    "size": 5,
+    "url": "https://archive.org/download/siro466VincentDevine-WerVonFernenMenschenTrumt/03-VincentDevine-NeulichAnDerDanziger.mp3"
+  }
+]
