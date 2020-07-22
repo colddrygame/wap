@@ -6,7 +6,7 @@ Download aplikasi WhatsApp mod dengan berbagai fitur canggih tambahan juga custo
 ## Download Versi Clone
 
 
-*  <a href="https://github.com/colddrygame/wap/raw/master/raw/%5BCOM.YO%5DDELTA_YOWA_v3.3.0.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+*  <a href="https://github.com/colddrygame/wap/raw/master/raw/COM.YOWA%20DELTA_YOWA_v3.3.2_REV.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
 
 Versi Clone adalah anda memasang aplikasi baru WhatsApp yang bisa berdampingan dengan aplikasi WhatsApp yang sudah ada di smartphone. Jadi dengan mendownload versi clone di Hp Anda nanti akan terpasang 2 aplikasi WhatsApp, yang versi dengan pilihan Tema yang banyak, dan satu lagi aplikasi WhatsApp original atau bawaan.
 
@@ -15,14 +15,14 @@ Versi Clone adalah anda memasang aplikasi baru WhatsApp yang bisa berdampingan d
 
 **[Link Alternatif]**  
 
-<a href="https://topremix.now.sh/static/raw/%5BCOM.YO%5DDELTA_YOWA_v3.3.0.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+<a href="https://topremix.now.sh/static/raw/COM.YOWA%20DELTA_YOWA_v3.3.2_REV.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
 
 
 
 
 ## Donwload Versi Unclone
 
-*  <a href="https://github.com/colddrygame/wap/raw/master/raw/%5BCOM.WA%5DDELTA_YOWA_v3.3.0.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+*  <a href="https://github.com/colddrygame/wap/raw/master/raw/COM.WA%20DELTA_YOWA_v3.3.2_REV.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
 
 Versi UNCLONE adalah menimpa aplikasi WhatsApp yang sudah ada di HP kamu. Jadi dengan mendownload dan memasang versi ini, kamu akan menimpa aplikasi WhatsApp yang ada di hp kamu.
 
@@ -31,7 +31,7 @@ Versi UNCLONE adalah menimpa aplikasi WhatsApp yang sudah ada di HP kamu. Jadi d
 
 **[Link Alternatif]**  
 
-<a href="https://topremix.now.sh/static/raw/%5BCOM.WA%5DDELTA_YOWA_v3.3.0.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+<a href="https://topremix.now.sh/static/raw/COM.WA%20DELTA_YOWA_v3.3.2_REV.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
 
 
 ## Harap dibaca
