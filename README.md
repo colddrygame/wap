@@ -5,34 +5,41 @@ Download aplikasi WhatsApp mod dengan berbagai fitur canggih tambahan juga custo
 
 ## Download Versi Clone
 
-
-*  <a href="https://github.com/colddrygame/wap/raw/master/raw/YoWhatsApp_HeyMods_v12.11.2_Techkinian.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+<p align=center>
+<a href="https://github.com/colddrygame/wap/raw/master/raw/clone-FMWA8.51_By.FouadMODS.apk"><img src="https://img.over-blog-kiwi.com/3/16/18/03/20190119/ob_4f9c9e_registry-fix-download.png" alt="alt text" width="25%"></a>
+</p>
 
 Versi Clone adalah anda memasang aplikasi baru WhatsApp yang bisa berdampingan dengan aplikasi WhatsApp yang sudah ada di smartphone. Jadi dengan mendownload versi clone di Hp Anda nanti akan terpasang 2 aplikasi WhatsApp, yang versi dengan pilihan Tema yang banyak, dan satu lagi aplikasi WhatsApp original atau bawaan.
 
 
 **Jika koneksi dalam mendownload versi Clone dirasa lambat, silahkan memakai link alternatif berikut:**
 
-**[Link Alternatif]**  
-
-<a href="https://archive.org/download/yo-whats-app-unclone-hey-mods-v-12.11.2-techkinian/YoWhatsApp_HeyMods_v12.11.2_Techkinian.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
-
-
+<p align=center>
+  <b>Link Alternatif</b>
+  </p>
+<p align=center>
+<a href="https://archive.org/download/yowa-8.45/clone-FMWA8.51_By.FouadMODS.apk"><img src="https://img.over-blog-kiwi.com/3/16/18/03/20190119/ob_4f9c9e_registry-fix-download.png" alt="alt text" width="25%"></a>
+</p>
+<hr />
 
 
 ## Donwload Versi Unclone
 
-*  <a href="https://github.com/colddrygame/wap/raw/master/raw/YoWhatsApp_Unclone_HeyMods_v12.11.2_Techkinian.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
+<p align=center>
+<a href="https://github.com/colddrygame/wap/raw/master/raw/unclone-Fouad.Whats8.51_By.FouadMODS.apk"><img src="https://img.over-blog-kiwi.com/3/16/18/03/20190119/ob_4f9c9e_registry-fix-download.png" alt="alt text" width="25%"></a>
+</p>
 
 Versi UNCLONE adalah menimpa aplikasi WhatsApp yang sudah ada di HP kamu. Jadi dengan mendownload dan memasang versi ini, kamu akan menimpa aplikasi WhatsApp yang ada di hp kamu.
 
 
 **Jika koneksi dalam mendownload versi Unclone dirasa lambat, silahkan memakai link alternatif berikut:**
 
-**[Link Alternatif]**  
-
-<a href="https://archive.org/download/yo-whats-app-unclone-hey-mods-v-12.11.2-techkinian/YoWhatsApp_Unclone_HeyMods_v12.11.2_Techkinian.apk"><img src="https://github.com/colddrygame/wap/raw/master/raw/downbott.png" alt="alt text" width="25%"></a>
-
+<p align=center>
+  <b>Link Alternatif</b>
+</p>
+<p align=center>
+<a href="https://archive.org/download/yowa-8.45/unclone-Fouad.Whats8.51_By.FouadMODS.apk"><img src="https://img.over-blog-kiwi.com/3/16/18/03/20190119/ob_4f9c9e_registry-fix-download.png" alt="alt text" width="25%"></a>
+</p>
 
 ## Harap dibaca
 
